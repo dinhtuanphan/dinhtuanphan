@@ -1,6 +1,6 @@
 Hi, I’m Tuan 👋 
 
-I'm a Wearable medical devices & Data scientist. Currently, I am working at Google as a Research Scientist.
+I'm a Wearables & Data scientist. Currently, I am working at Google as a Research Scientist.
 - 👀 I’m interested in data science.
 - 🌱 I’m currently learning machine learning models.
 - 💞️ I’m looking to collaborate on data science projects.
